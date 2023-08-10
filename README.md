@@ -1,4 +1,18 @@
-### Hi there 👋
+## 🤞 Nice way to meet me 👋
+
+<a href="www.linkedin.com/in/doyoung-an-058b81287" target="_blank"><img src="https://img.shields.io/badge/DoyoungAn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="andyanappdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/andyanappdev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/nationpower" target="_blank"><img src="https://img.shields.io/badge/nationpower-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
+
+#### I am an App developer who seeks novelty over familiarity and enjoys the challenge of new experiences and change.
+
+## 💾 Records
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nation81&theme=blueberry&card_width=445&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nation81&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **nation81/nation81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
