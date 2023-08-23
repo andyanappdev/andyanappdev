@@ -45,8 +45,8 @@
 
 ## 🏁 Records
 <div style="display: flex, height:190px">
-<img align="center" style="height:190px" src="https://github-readme-stats.vercel.app/api?username=nation81&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
-<img align="center" style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nation81&theme=codeSTACKr&hide=shell&layout=compact" />
+<img align="center" style="height:190px" src="https://github-readme-stats-nation81.vercel.app/api?username=nation81&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
+<img align="center" style="height:190px" src="https://github-readme-stats-nation81.vercel.app/api/top-langs/?username=nation81&theme=codeSTACKr&hide=shell&layout=compact" />
 </div>
 
 <!--
