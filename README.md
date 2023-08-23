@@ -44,13 +44,23 @@
 
 
 ## 🏁 Records
+<div style="display: flex, height:190px">
+<img align="center" style="height:190px" src="https://github-readme-stats.vercel.app/api?username=nation81&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
+<img align="center" style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nation81&theme=codeSTACKr&hide=shell&layout=compact" />
+</div>
+
+<!--
+예전 코드
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nation81&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/nation81/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nation81&theme=codeSTACKr&card_width=250&hide=shell&layout=compact)](https://github.com/nation81/github-readme-stats)
+-->
+
 <br>
 <br>
 
 
 ## 💾 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=SeSacFlutter)](https://github.com/nation81/SeSacFlutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=Challenge-of-Clean-Architecture)](https://github.com/nation81/Challenge-of-Clean-Architecture)
 
 
 <!--
