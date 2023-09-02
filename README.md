@@ -60,8 +60,8 @@
 
 ## 💾 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=SeSacFlutter)](https://github.com/nation81/SeSacFlutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=Challenge-of-Clean-Architecture)](https://github.com/nation81/Challenge-of-Clean-Architecture)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=Challenge-of-Clean-Architecture-Flutter)](https://github.com/nation81/Challenge-of-Clean-Architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nation81&theme=algolia&repo=References-Flutter)](https://github.com/nation81/References-Flutter)
 
 <!--
 **nation81/nation81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
