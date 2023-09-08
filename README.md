@@ -4,6 +4,7 @@
 # 🤞 Nice way to meet me 👋
 <p>
     <a href="www.linkedin.com/in/nation81" target="_blank"><img src="https://img.shields.io/badge/DoyoungAn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.notion.so/Hello-Doyoung-8f90abdc35c04cf8a487ad0f69fff6cc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
     <a href="mailto:andyanappdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/andyanappdev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://twitter.com/nationpower" target="_blank"><img src="https://img.shields.io/badge/@nationpower-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
