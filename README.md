@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Andy%20An&fontSize=50&fontAlign=85&animation=fedeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Andy%20An&fontSize=50&fontAlign=85)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnation81%2Fhit-counter&count_bg=%230D48E5&title_bg=%236E6D6D&icon=github.svg&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🤞 Nice way to meet me 👋
