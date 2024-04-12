@@ -9,14 +9,14 @@
     <a href="https://twitter.com/nationpower" target="_blank"><img src="https://img.shields.io/badge/@nationpower-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
-**I am Mobile App developer who seeks novelty over familiarity and enjoys the challenge of new experiences and change.**
-<p>
-    🤔 Always try to develop with an overarching focus on structural values for the flexibility of the software.<br>
-    ☝🏼 Communication with each other as the most important value.<br> Because both organizations and human relationships work on interaction!<br>
-    😍 Even enjoy taking reckless risks for new experiences.<br>
-    🗂️ Love organizing and managing all things intangible (like data) & tangible (like stuff).<br>
-    🏅 I want to recognize differences and respect diversity, because the world has become a place where different tastes and ideas coexist.<br>
-</p>
+### I am Mobile App developer who seeks novelty over familiarity and enjoys the challenge of new experiences and change.
+
+#### 🤔 Always try to develop with an overarching focus on structural values for the flexibility of the software.
+#### ☝🏼 Communication with each other as the most important value.<br> &emsp;&nbsp;&nbsp;&nbsp;Because both organizations and human relationships work on interaction!
+#### 😍 Even enjoy taking reckless risks for new experiences.
+#### 🗂️ Love organizing and managing all things intangible (like data) & tangible (like stuff).
+#### 🏅 I want to recognize differences and respect diversity,<br> &emsp;&nbsp;&nbsp;&nbsp;Because the world has become a place where different tastes and ideas coexist.
+
 <br>
 
 
@@ -46,7 +46,7 @@
 
 ## 🏁 Records
 <div style="display: flex, height:190px">
-<img align="center" style="height:190px" src="https://github-readme-stats-andyanappdev.vercel.app//api?username=andyanappdev&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
+<img align="center" style="height:190px" src="https://github-readme-stats-andyanappdev.vercel.app/api?username=andyanappdev&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
 <img align="center" style="height:190px" src="https://github-readme-stats-andyanappdev.vercel.app/api/top-langs/?username=andyanappdev&theme=codeSTACKr&hide=shell&layout=compact" />
 </div>
 
@@ -60,16 +60,19 @@
 
 
 ## 💾 Repositories
-[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app//api/pin/?username=andyanappdev&theme=algolia&repo=SeSAC-Flutter)](https://github.com/andyanappdev/SeSAC-Flutter)
-[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app//api/pin/?username=andyanappdev&theme=algolia&repo=Challenge-of-Clean-Architecture-Flutter)](https://github.com/andyanappdev/Challenge-of-Clean-Architecture)
-[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app//api/pin/?username=andyanappdev&theme=algolia&repo=References-Flutter)](https://github.com/andyanappdev/References-Flutter)
-[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app//api/pin/?username=andyanappdev&theme=algolia&repo=Stock-Search-Flutter)](https://github.com/andyanappdev/US-Stock-Flutter)
-<!-- [![Readme Card](https://github-readme-stats-nation81.vercel.app/api/pin/?username=nation81&theme=algolia&repo=TipDi-Flutter)](https://github.com/nation81/TipDi-Flutter) 
-[![Readme Card](https://github-readme-stats-nation81.vercel.app/api/pin/?username=nation81&theme=algolia&repo=DiscoveryPhotos-Flutter)](https://github.com/nation81/DiscoveryPhotos-Flutter)
-[![Readme Card](https://github-readme-stats-nation81.vercel.app/api/pin/?username=nation81&theme=algolia&repo=DustForecast-Flutter)](https://github.com/nation81/DustForecast-Flutter) -->
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=SeSAC-Flutter)](https://github.com/andyanappdev/SeSAC-Flutter)
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=References-Flutter)](https://github.com/andyanappdev/References-Flutter)
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=Stock-Search-Flutter)](https://github.com/andyanappdev/Stock-Search-Flutter)
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=Challenge-of-Clean-Architecture-Flutter)](https://github.com/andyanappdev/Challenge-of-Clean-Architecture-Flutter)
+<!--
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=TipDi-Flutter)](https://github.com/andyanappdev/TipDi-Flutter)
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=DiscoveryPhotos-Flutter)](https://github.com/andyanappdev/DiscoveryPhotos-Flutter)
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=DustForecast-Flutter)](https://github.com/andyanappdev/DustForecast-Flutter)
+-->
+
 
 <!--
-**nation81/nation81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andyanappdev/andyanappdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
