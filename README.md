@@ -1,20 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Andy%20An&fontSize=50&fontAlign=85) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnation81%2Fhit-counter&count_bg=%230D48E5&title_bg=%236E6D6D&icon=github.svg&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Andy%20An&fontSize=50&fontAlign=85) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandyanappdev%2Fandyanappdev&count_bg=%230D48E5&title_bg=%236E6D6D&icon=github.svg&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 🤞 Nice way to meet me 👋
+# 👋 Hi there, I'm Andy
 
 <p>
 <a href="www.linkedin.com/in/nation81" target="_blank"><img src="https://img.shields.io/badge/DoyoungAn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.notion.so/Hello-Doyoung-8f90abdc35c04cf8a487ad0f69fff6cc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="mailto:andyanappdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/andyanappdev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/nationpower" target="_blank"><img src="https://img.shields.io/badge/@nationpower-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
-### I am a SAP ABAP Developer with a background in Mobile App development, always embracing new challenges and changes.
+### I'm a SAP ABAP Developer who transitioned from Mobile App development.
+### I believe diverse experience across domains makes better software — and better developers.
 
+#### 🌱 On a journey to master SAP ABAP development, building learning notes & projects step by step.
 #### 🤔 Always try to develop with an overarching focus on structural values for the flexibility of the software.
 #### ☝🏼 Communication with each other as the most important value.<br>
 &emsp;&nbsp;&nbsp;&nbsp;Because both organizations and human relationships work on interaction!
-#### 😍 Even enjoy taking reckless risks for new experiences.
 #### 🗂️ Love organizing and managing all things intangible (like data) & tangible (like stuff).
 #### 🏅 I want to recognize differences and respect diversity,<br>
 &emsp;&nbsp;&nbsp;&nbsp;Because the world has become a place where different tastes and ideas coexist.
@@ -70,6 +70,7 @@
 
 ## 💾 Repositories
 
+[![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=SAP-ABAP-Programming)](https://github.com/andyanappdev/SAP-ABAP-Programming)
 [![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=SeSAC-Flutter)](https://github.com/andyanappdev/SeSAC-Flutter)
 [![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=References-Flutter)](https://github.com/andyanappdev/References-Flutter)
 [![Readme Card](https://github-readme-stats-andyanappdev.vercel.app/api/pin/?username=andyanappdev&theme=algolia&repo=Stock-Search-Flutter)](https://github.com/andyanappdev/Stock-Search-Flutter)
